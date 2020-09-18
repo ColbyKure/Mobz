@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Mobz/static/css/main.666acf41.chunk.css",
+    "main.js": "/Mobz/static/js/main.98c8743a.chunk.js",
+    "main.js.map": "/Mobz/static/js/main.98c8743a.chunk.js.map",
+    "runtime-main.js": "/Mobz/static/js/runtime-main.5ac6cb5e.js",
+    "runtime-main.js.map": "/Mobz/static/js/runtime-main.5ac6cb5e.js.map",
+    "static/css/2.e4d1e935.chunk.css": "/Mobz/static/css/2.e4d1e935.chunk.css",
+    "static/js/2.8b90f665.chunk.js": "/Mobz/static/js/2.8b90f665.chunk.js",
+    "static/js/2.8b90f665.chunk.js.map": "/Mobz/static/js/2.8b90f665.chunk.js.map",
+    "index.html": "/Mobz/index.html",
+    "precache-manifest.75d4702381555216c3a1a2d023d52dd5.js": "/Mobz/precache-manifest.75d4702381555216c3a1a2d023d52dd5.js",
+    "service-worker.js": "/Mobz/service-worker.js",
+    "static/css/2.e4d1e935.chunk.css.map": "/Mobz/static/css/2.e4d1e935.chunk.css.map",
+    "static/css/main.666acf41.chunk.css.map": "/Mobz/static/css/main.666acf41.chunk.css.map",
+    "static/js/2.8b90f665.chunk.js.LICENSE.txt": "/Mobz/static/js/2.8b90f665.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/Mobz/static/media/color.c7a33805.png",
+    "static/media/primeicons.css": "/Mobz/static/media/primeicons.b8eccb10.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ac6cb5e.js",
+    "static/css/2.e4d1e935.chunk.css",
+    "static/js/2.8b90f665.chunk.js",
+    "static/css/main.666acf41.chunk.css",
+    "static/js/main.98c8743a.chunk.js"
+  ]
+}
